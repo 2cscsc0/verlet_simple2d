@@ -1,0 +1,15 @@
+tunes/
+__pycache__/
+*.egg-info/
+**/.DS_Store
+
+src/
+include/
+
+.mypy_cache/
+.pytest_cache/
+
+output/
+*.png
+*.mp4
+*.avi
